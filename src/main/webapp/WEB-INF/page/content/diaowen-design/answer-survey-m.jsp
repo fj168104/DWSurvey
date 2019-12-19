@@ -9,6 +9,7 @@
 <title>${survey.surveyName }</title>
 <link href="${ctx }/css/sur-mobile.css" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="${ctx }/js/plugs/jquery.mobile-1.4.5/jquery.mobile-1.4.5.min.css">
+<script src="${ctx }/js/common/common.js"></script>
 <script type="text/javascript" src="${ctx }/js/plugs/jquery-ui-1.10.3.custom/js/jquery-1.10.1.js"></script>
 <script src="${ctx }/js/plugs/jquery.mobile-1.4.5/jquery.mobile-1.4.5.min.js"></script>
 <script src="${ctx }/js/common/ans-m.js"></script>
